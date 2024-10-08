@@ -1,3 +1,4 @@
 therapist_chatbot_env/*
 app/models/*
+app/__pycache__/*
 projectStrategy.txt
